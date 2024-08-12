@@ -1,1 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Level Business Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <nav>
+            <div class="logo">A Level Business Hub</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#as-level">AS Level</a></li>
+                <li><a href="#a-level">A Level</a></li>
+                <li><a href="#resources">Resources</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home">
+        <div class="main-banner">
+            <h1>Welcome to A Level Business Hub</h1>
+            <p>Your Gateway to A Level Business Success</p>
+            <a href="#as-level" class="btn">Explore AS Level</a>
+            <a href="#a-level" class="btn">Explore A Level</a>
+        </div>
+    </section>
+
+    <!-- AS Level Section -->
+    <section id="
 
